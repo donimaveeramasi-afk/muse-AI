@@ -30,7 +30,7 @@ import {
   Hash,
   RefreshCw
 } from "lucide-react";
-import "./app.css";
+import "./App.css";
 
 const STORAGE_KEY = "muse-ai-content-v1";
 
