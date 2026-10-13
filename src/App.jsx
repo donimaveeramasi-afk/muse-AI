@@ -30,7 +30,7 @@ import {
   Video,
   WandSparkles,
 } from "lucide-react";
-import Marketplace from "./Marketplace.jsx";
+import Marketplace from "./marketplace.jsx";
 import "./App.css";
 
 const STORAGE_KEY = "muse-ai-content-v1";
