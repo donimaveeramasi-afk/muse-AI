@@ -1,6 +1,6 @@
 
 import { useState } from "react";
-import "./VoiceAssistant.css";
+import "./voiceassistant.css";
 
 export default function VoiceAssistant() {
   const [listening, setListening] = useState(false);
